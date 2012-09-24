@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: pomodoro-indicator
+Summary: Pomodoro Timer Indicator for Ubuntu
+Home-page: https://github.com/dustin999/pomodoro-indicator
+Author: dustin999
+Author-email: dustin.devries@gmail.com
+
+This is a branch off the 0.0.2 app located at:
+Version: 0.0.2
+Home-page: https://launchpad.net/pomodoro-indicator
+Author: The Pomodoro Developers
+Author-email: marcosvanetta@gmail.com
+License: GPL-3
+Description: Pomodoro technique app indicator
+Platform: UNKNOWN
